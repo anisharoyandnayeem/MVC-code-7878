@@ -1,0 +1,7 @@
+in\ashokit\controller\MyController.class
+in\ashokit\Application.class
+in\ashokit\repositories\StudentRepository.class
+in\ashokit\service\StudentService.class
+in\ashokit\ServletInitializer.class
+in\ashokit\entity\Student.class
+in\ashokit\service\StudentImp.class

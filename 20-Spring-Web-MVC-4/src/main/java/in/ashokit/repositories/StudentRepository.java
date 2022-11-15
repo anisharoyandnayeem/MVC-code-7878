@@ -1,0 +1,13 @@
+package in.ashokit.repositories;
+
+import org.springframework.data.repository.CrudRepository;
+import org.springframework.stereotype.Repository;
+
+import in.ashokit.entity.Student;
+
+
+
+@Repository
+public interface StudentRepository extends CrudRepository<Student, Integer> {
+
+}

@@ -1,0 +1,129 @@
+# Created at 2021-10-19T23:01:44.253
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: null
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:396)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+
+
+# Created at 2021-10-19T23:01:44.258
+Unexpected IOException with stream: 23:01:44.256 [main] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@315f43d5, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@68fa0ba8, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@6c5945a7, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@2f05be7f, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@640f11a1, org.springframework.test.context.support.DirtiesContextTestExecutionListener@5c10f1c3, org.springframework.test.context.transaction.TransactionalTestExecutionListener@7ac2e39b, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@78365cfa, org.springframework.test.context.event.EventPublishingTestExecutionListener@64a8c844, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@3f6db3fb, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@52de51b6, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@18c5069b, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@3a0d172f, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@68ad99fe, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@485e36bc]
+
+
+# Created at 2021-10-19T23:01:44.269
+Unexpected IOException with stream: 23:01:44.268 [main] DEBUG org.springframework.test.context.support.AbstractDirtiesContextTestExecutionListener - Before test class: context [DefaultTestContext@5c530d1e testClass = ApplicationTests, testInstance = [null], testMethod = [null], testException = [null], mergedContextConfiguration = [WebMergedContextConfiguration@6c25e6c4 testClass = ApplicationTests, locations = '{}', classes = '{class in.ashokit.Application}', contextInitializerClasses = '[]', activeProfiles = '{}', propertySourceLocations = '{}', propertySourceProperties = '{org.springframework.boot.test.context.SpringBootTestContextBootstrapper=true}', contextCustomizers = set[org.springframework.boot.test.context.filter.ExcludeFilterContextCustomizer@26adfd2d, org.springframework.boot.test.json.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer@205d38da, org.springframework.boot.test.mock.mockito.MockitoContextCustomizer@0, org.springframework.boot.test.web.client.TestRestTemplateContextCustomizer@7f284218, org.springframework.boot.test.autoconfigure.actuate.metrics.MetricsExportContextCustomizerFactory$DisableMetricExportContextCustomizer@4fa1c212, org.springframework.boot.test.autoconfigure.properties.PropertyMappingContextCustomizer@0, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverContextCustomizerFactory$Customizer@4bd31064, org.springframework.boot.test.context.SpringBootTestArgs@1, org.springframework.boot.test.context.SpringBootTestWebEnvironment@3427b02d], resourceBasePath = 'src/main/webapp', contextLoader = 'org.springframework.boot.test.context.SpringBootContextLoader', parent = [null]], attributes = map['org.springframework.test.context.web.ServletTestExecutionListener.activateListener' -> true]], class annotated with @DirtiesContext [false] with mode [null].
+
+
+# Created at 2021-10-19T23:01:44.326
+Unexpected IOException with stream: 23:01:44.324 [main] DEBUG org.springframework.test.context.support.TestPropertySourceUtils - Adding inlined properties to environment: {spring.jmx.enabled=false, org.springframework.boot.test.context.SpringBootTestContextBootstrapper=true}
+
+
+# Created at 2021-10-19T23:01:44.607
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-19T23:01:44.608
+Unexpected IOException with stream:   .   ____          _            __ _ _
+
+
+# Created at 2021-10-19T23:01:44.610
+Unexpected IOException with stream:  /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+
+
+# Created at 2021-10-19T23:01:44.611
+Unexpected IOException with stream: ( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+
+
+# Created at 2021-10-19T23:01:44.612
+Unexpected IOException with stream:  \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+
+
+# Created at 2021-10-19T23:01:44.613
+Unexpected IOException with stream:   '  |____| .__|_| |_|_| |_\__, | / / / /
+
+
+# Created at 2021-10-19T23:01:44.614
+Unexpected IOException with stream:  =========|_|==============|___/=/_/_/_/
+
+
+# Created at 2021-10-19T23:01:44.616
+Unexpected IOException with stream:  :: Spring Boot ::                (v2.5.5)
+
+
+# Created at 2021-10-19T23:01:44.618
+Unexpected IOException with stream: 
+
+
+# Created at 2021-10-19T23:01:44.711
+Unexpected IOException with stream: 2021-10-19 23:01:44.709  INFO 12944 --- [           main] in.ashokit.ApplicationTests              : Starting ApplicationTests using Java 15 on DESKTOP-1GB5TJ4 with PID 12944 (started by Payel in C:\Users\Payel\Documents\workspace-spring-tool-suite-4-4.8.1.RELEASE\19-Spring-Web-MVC-3)
+
+
+# Created at 2021-10-19T23:01:44.715
+Unexpected IOException with stream: 2021-10-19 23:01:44.715  INFO 12944 --- [           main] in.ashokit.ApplicationTests              : No active profile set, falling back to default profiles: default
+
+
+# Created at 2021-10-19T23:01:45.588
+Unexpected IOException with stream: 2021-10-19 23:01:45.587  INFO 12944 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+
+
+# Created at 2021-10-19T23:01:45.649
+Unexpected IOException with stream: 2021-10-19 23:01:45.649  INFO 12944 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 52 ms. Found 1 JPA repository interfaces.
+
+
+# Created at 2021-10-19T23:01:46.401
+Unexpected IOException with stream: 2021-10-19 23:01:46.399  INFO 12944 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+
+
+# Created at 2021-10-19T23:01:46.998
+Unexpected IOException with stream: 2021-10-19 23:01:46.997  INFO 12944 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+
+
+# Created at 2021-10-19T23:01:47.084
+Unexpected IOException with stream: 2021-10-19 23:01:47.084  INFO 12944 --- [           main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+
+
+# Created at 2021-10-19T23:01:47.170
+Unexpected IOException with stream: 2021-10-19 23:01:47.169  INFO 12944 --- [           main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.32.Final
+
+
+# Created at 2021-10-19T23:01:47.424
+Unexpected IOException with stream: 2021-10-19 23:01:47.423  INFO 12944 --- [           main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+
+
+# Created at 2021-10-19T23:01:47.632
+Unexpected IOException with stream: 2021-10-19 23:01:47.631  INFO 12944 --- [           main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+
+
+# Created at 2021-10-19T23:01:48.332
+Unexpected IOException with stream: 2021-10-19 23:01:48.332  INFO 12944 --- [           main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+
+
+# Created at 2021-10-19T23:01:48.345
+Unexpected IOException with stream: 2021-10-19 23:01:48.344  INFO 12944 --- [           main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+
+
+# Created at 2021-10-19T23:01:49.162
+Unexpected IOException with stream: 2021-10-19 23:01:49.161  WARN 12944 --- [           main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+
+
+# Created at 2021-10-19T23:01:49.650
+Unexpected IOException with stream: 2021-10-19 23:01:49.649  INFO 12944 --- [           main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+
+
+# Created at 2021-10-19T23:01:50.102
+Unexpected IOException with stream: 2021-10-19 23:01:50.101  INFO 12944 --- [           main] in.ashokit.ApplicationTests              : Started ApplicationTests in 5.765 seconds (JVM running for 6.965)
+
+
+# Created at 2021-10-19T23:01:50.132
+Unexpected IOException: 5,1,in.ashokit.ApplicationTests,contextLoads,null,null,null
+
+
+# Created at 2021-10-19T23:01:50.389
+Unexpected IOException: 6,1,in.ashokit.ApplicationTests,contextLoads,null,null,null
+
+
+# Created at 2021-10-19T23:01:50.393
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,in.ashokit.ApplicationTests,null,null,null
+
+

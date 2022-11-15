@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Payel
+Build-Jdk: 15
+Implementation-Title: 19-Spring-Web-MVC-3
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: in.ashokit
+Implementation-URL: https://spring.io/projects/spring-boot/19-Spring-Web
+ -MVC-3
+Created-By: Maven Integration for Eclipse
+
